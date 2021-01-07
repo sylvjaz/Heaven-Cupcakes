@@ -11,7 +11,7 @@
 
 ## Description
 
-_A project that was worked on by two people to allow others to know about Heaven Cupcakes. Everyone loves cupcakes and this little mom and pop shop just wants to get theri name out_
+_A project that was worked on by two people to allow others to know about Heaven Cupcakes. Everyone loves cupcakes and this little mom and pop shop just wants to get their name out_
 
 ## Setup/Installation Requirements 
 
