@@ -1,0 +1,11 @@
+.intro {
+  color: #F00;
+  font-style: italic;
+}
+
+.best {
+  border-style: dashed;
+  border-width: 40px;
+  border-color: #FF0;
+}
+
