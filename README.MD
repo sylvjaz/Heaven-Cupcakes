@@ -13,7 +13,7 @@
 
 _A project that was worked on by two people to allow others to know about Heaven Cupcakes. Everyone loves cupcakes and this little mom and pop shop just wants to get theri name out_
 
-## Setup/Installation Requirements
+## Setup/Installation Requirements 
 
 * _Clone the repository_
 * _Navigate to the top level of the directory_
